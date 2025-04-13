@@ -1,4 +1,3 @@
-Test
 # Project 1: Movie Success Analysis
 
 ### Team Members
